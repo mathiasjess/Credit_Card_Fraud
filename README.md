@@ -73,7 +73,7 @@ Classifiers:  DecisionTreeClassifier Has a test score of 88.3248730964467 % Test
 Classifiers:  MLPClassifier Has a training score of 95.0 % Training accuracy score
 Classifiers:  MLPClassifier Has a test score of 93.90862944162437 % Testing accuracy score
 
-## TOOLS USAGE
+## Tools Usage
 
 1. AWS Sagemaker 
 Amazon AWS SageMaker is a platform that is professionally operated. It performs the entire machine learning workflow. Using AWS SageMaker, with far less effort and lower cost, our models get to production faster. Additionally, we can provide API to connect to our project. 
